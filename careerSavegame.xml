@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<careerSavegame revision="2" valid="true">
+    <settings>
+        <savegameName>Twitch Projekt</savegameName>
+        <creationDate>2025-04-30</creationDate>
+        <mapId>FS25_Mazury.SampleModMap</mapId>
+        <mapTitle>Mazury</mapTitle>
+        <saveDateFormatted>30.04.2025</saveDateFormatted>
+        <saveDate>2025-04-30</saveDate>
+        <initialMoney>1000000</initialMoney>
+        <initialLoan>0</initialLoan>
+        <economicDifficulty>NORMAL</economicDifficulty>
+        <hasInitiallyOwnedFarmlands>false</hasInitiallyOwnedFarmlands>
+        <loadDefaultFarm>false</loadDefaultFarm>
+        <startWithGuidedTour>false</startWithGuidedTour>
+        <trafficEnabled>true</trafficEnabled>
+        <stopAndGoBraking>true</stopAndGoBraking>
+        <trailerFillLimit>false</trailerFillLimit>
+        <automaticMotorStartEnabled>false</automaticMotorStartEnabled>
+        <growthMode>1</growthMode>
+        <plannedDaysPerPeriod>1</plannedDaysPerPeriod>
+        <fruitDestruction>true</fruitDestruction>
+        <plowingRequiredEnabled>false</plowingRequiredEnabled>
+        <stonesEnabled>true</stonesEnabled>
+        <weedsEnabled>true</weedsEnabled>
+        <limeRequired>true</limeRequired>
+        <isSnowEnabled>true</isSnowEnabled>
+        <fuelUsage>2</fuelUsage>
+        <helperBuyFuel>true</helperBuyFuel>
+        <helperBuySeeds>true</helperBuySeeds>
+        <helperBuyFertilizer>true</helperBuyFertilizer>
+        <helperSlurrySource>2</helperSlurrySource>
+        <helperManureSource>2</helperManureSource>
+        <densityMapRevision>4</densityMapRevision>
+        <terrainTextureRevision>1</terrainTextureRevision>
+        <terrainLodTextureRevision>2</terrainLodTextureRevision>
+        <splitShapesRevision>2</splitShapesRevision>
+        <tipCollisionRevision>2</tipCollisionRevision>
+        <placementCollisionRevision>2</placementCollisionRevision>
+        <navigationCollisionRevision>2</navigationCollisionRevision>
+        <mapDensityMapRevision>1</mapDensityMapRevision>
+        <mapTerrainTextureRevision>1</mapTerrainTextureRevision>
+        <mapTerrainLodTextureRevision>1</mapTerrainLodTextureRevision>
+        <mapSplitShapesRevision>1</mapSplitShapesRevision>
+        <mapTipCollisionRevision>1</mapTipCollisionRevision>
+        <mapPlacementCollisionRevision>1</mapPlacementCollisionRevision>
+        <mapNavigationCollisionRevision>1</mapNavigationCollisionRevision>
+        <disasterDestructionState>ENABLED</disasterDestructionState>
+        <dirtInterval>3</dirtInterval>
+        <timeScale>5.000000</timeScale>
+        <autoSaveInterval>15.000000</autoSaveInterval>
+    </settings>
+    <map>
+        <foundHelpIcons>00000000000000000000</foundHelpIcons>
+    </map>
+    <introductionHelp active="false">
+        <shownElements></shownElements>
+        <shownHints></shownHints>
+    </introductionHelp>
+    <statistics>
+        <money>959870</money>
+        <playTime>52.153019</playTime>
+    </statistics>
+    <mapsSplitShapeFileIds count="1">
+        <id id="0"/>
+    </mapsSplitShapeFileIds>
+    <slotSystem slotUsage="1091"/>
+    <mod modName="FS25_FreeLandscapingToolsbyBuiac" title="Kostenlose Landschaftsbau-Tools" version="1.0.0.0" required="false" fileHash="8af0a11a2b8e2e822088c22295b438d0"/>
+    <mod modName="FS25_SmallObjectsPackage" title="Paket Kleiner Gegenstände" version="1.0.0.0" required="false" fileHash="536896f3211a77ac2591625fc3f837e1"/>
+    <mod modName="FS25_gameplay_Real_Vehicle_Breakdowns" title="Real Vehicle Breakdowns" version="0.9.1.1" required="false" fileHash="3303bc9e77e9214de5cab8bfd4ecc83c"/>
+    <mod modName="FS25_PolishWoodenShed" title="Polen Holzschuppen" version="1.1.0.0" required="false" fileHash="1684d27168857093aed577bd85bd800c"/>
+    <mod modName="FS25_CowBarnEuropeanModernPack" title="Moderner Kuhstall Und Maschinenhalle - Pack" version="1.0.0.0" required="false" fileHash="6cbfbf6a59c9b1d5bcfa6212545bd53c"/>
+    <mod modName="FS25_Open_Chicken_Coop" title="Offener Hühnerstall" version="1.0.0.0" required="false" fileHash="e0fb1b066cbc9b5c3b50ba05f1078232"/>
+    <mod modName="FS25_BuL_Greifschafel_SL50" title="Bressel Und Lade Greifschaufel SL50" version="1.0.0.0" required="false" fileHash="f08cd85bd683eb30d44625c80dce056b"/>
+    <mod modName="FS25_ClaasRollant66" title="Claas Rollant 66/260" version="1.0.0.0" required="false" fileHash="fda69c9ff64bb993d23ba8fb7b3effdd"/>
+    <mod modName="FS25_MTZ_1221_Pack" title="MTZ 1221" version="1.0.0.0" required="false" fileHash="939a0a94675f1515e59932917a55b3d8"/>
+    <mod modName="FS25_SpecialOffers" title="Sonderangebote" version="3.0.0.0" required="false" fileHash="3ab548362f1ad77259f9f6c1fec80468"/>
+    <mod modName="FS25_Self_Made_Trailer" title="Elbstgebauter Anhänger" version="1.0.0.0" required="false" fileHash="350d98003e3618cd63ef18cc612a455e"/>
+    <mod modName="FBM25_FendtF40" title="Fendt F40" version="1.0.0.0" required="false" fileHash="41c2f9d162fdb5d3f86c87d4fb374acc"/>
+    <mod modName="FS25_WielkiDarOdMatlaDlaLudu" title="Wladymirec T25" version="1.1.0.1" required="false" fileHash="2d086d7dbc6028e9667a6ff8ee861641"/>
+    <mod modName="FS25_SilageSilo" title="Silage Silo Pack" version="1.0.0.0" required="false" fileHash="416e673f421c0cd39065b02f898134d7"/>
+    <mod modName="FS25_strautmannGS1750" title="Strautmann GS 1750" version="1.0.0.0" required="false" fileHash="f53154ebba277f00043f4a4416785aba"/>
+    <mod modName="FS25_GSanchezBeato" title="G. Sanchez-Beato 9 Grubberarme" version="1.0.0.0" required="false" fileHash="18f5cf705eef2fd79e19340e79ad6f86"/>
+    <mod modName="FS25_ShopSorting" title="Shop Sortieren" version="1.0.0.0" required="false" fileHash="7b183082a74137c93ab4aaf435d4d1f8"/>
+    <mod modName="FS25_SelfMadeFuelTank" title="Selbstgebauter Kraftstofftank" version="1.0.0.0" required="false" fileHash="7b3616c5c094bae73882c660ca4f15d4"/>
+    <mod modName="FS25_PigstyWithABarn" title="Schweinestall Mit Einer Scheune" version="1.0.0.0" required="false" fileHash="83123eb22980aca8ca793041de246d6f"/>
+    <mod modName="FS25_kuhnVenta4030" title="Kuhn HR 4040 + VENTA 4030" version="1.0.0.0" required="false" fileHash="2875347c260f8e5eb7428b7b51421658"/>
+    <mod modName="FS25_BigBagTank" title="BigBag Tank" version="1.0.0.1" required="false" fileHash="cefb379f118f8e068e62102140c8b3ea"/>
+    <mod modName="FS25_DisableCoverAutoStateChange" title="Deaktiviere Automatische Plane" version="1.0.0.0" required="false" fileHash="88f3a88858b6b9d90c60e8d411b5ad15"/>
+    <mod modName="FS25_MachineStorage" title="Maschinenlagerung" version="1.0.0.1" required="false" fileHash="0d66bbb2e670d0563f2fb9cea7cef74c"/>
+    <mod modName="FS25_ConcreteFreeLandSilo_Pack" title="Beton Freilandsilo Pack" version="1.0.0.0" required="false" fileHash="f2e36085b23456f829b01ee7db50a14f"/>
+    <mod modName="FS25_Lizard_RSD4" title="Lizard RSD4" version="1.0.0.0" required="false" fileHash="a4c0da224b972f98c99c2f5c127eac26"/>
+    <mod modName="FS25_Gas_Station_With_Daily_Income" title="Gasstation Mit Tageseinkommen" version="1.0.0.0" required="false" fileHash="15e7d88ba8bf29484d2ea89018c8f2c1"/>
+    <mod modName="FS25_RepairPickup" title="Feld Reparatur Pickup" version="1.1.0.0" required="false" fileHash="809eab6830158decb1269ce7c91cefcc"/>
+    <mod modName="FS25_OldDieselBarrel" title="Tankstelle" version="1.0.0.0" required="false" fileHash="7c1422969b1fc8b9808bf782b34b5ecb"/>
+    <mod modName="FS25_zetor3011" title="Zetor 3011 Major" version="1.0.0.1" required="false" fileHash="a5165f69798737a4d3f527d902538889"/>
+    <mod modName="FS25_BB_Brantner" title="BB Brantner" version="1.0.0.1" required="false" fileHash="86a9b417f0fecb4ce1d72a166f2f7dd7"/>
+    <mod modName="FS25_OldFarmBuildingSet" title="Altes Hofgebäude-Set" version="1.0.0.0" required="false" fileHash="47ad2fe1fbb7cd4521a517f158172fa5"/>
+    <mod modName="FS25_Bale_Trailer" title="Ballenanhänger" version="1.0.0.0" required="false" fileHash="fe454892fdf1d8232667a023e36eae48"/>
+    <mod modName="FS25_InfoDisplayExtension" title="Info Display Erweiterung" version="1.1.2.0" required="false" fileHash="fb8c67779e49f6b12497b72d4e982acc"/>
+    <mod modName="FS25_GarageCowSheed" title="Garage Mit Kuhstall" version="1.0.0.0" required="false" fileHash="cf51fe4b6565bc08ed395cbb7be64fac"/>
+    <mod modName="FS25_IncreaseLightRange" title="Erhöhte Licht-Leuchtweite" version="1.0.0.0" required="false" fileHash="ffba7cac8e3731b5d2364733ce218e71"/>
+    <mod modName="FS25_naturalWaterRiversAndPondsPack" title="Natürliches Wasser Flüsse Und Teiche Pack" version="1.0.1.1" required="false" fileHash="818e3b47bf737f35c37892e1ec3f22fe"/>
+    <mod modName="FS25_kuhnDC401" title="Kuhn DC 401" version="1.0.0.0" required="false" fileHash="789ba36f18472e3487117ec4d3bbff3e"/>
+    <mod modName="FS25_MF310" title="MF 310" version="1.0.0.0" required="false" fileHash="8c625b67960f81cb4a0590d052789727"/>
+    <mod modName="FS25_MA_hedgePlaceable" title="Platzierbare Hecken" version="1.0.0.0" required="false" fileHash="e8da42ba4892ab57c8c0c9ef9f0a02cc"/>
+    <mod modName="FS25_T088_Pack" title="Fortschritt T 088 Pack" version="1.0.0.0" required="false" fileHash="7b791f4ba441fff857f49fd7b82e6f66"/>
+    <mod modName="FS25_realDirtColor" title="Echte Schmutzfarbe" version="1.0.0.0" required="false" fileHash="51d57add610c12cbcab46ca34bbb22b6"/>
+    <mod modName="FS25_MachineBarn" title="Maschinenscheune" version="1.0.0.0" required="false" fileHash="2c70a42ed564746d1bbd00c51b3e4b31"/>
+    <mod modName="FS25_DeutzFahrSeriesDX3" title="Deutz-Fahr DX3 Series" version="1.0.0.0" required="false" fileHash="3519746d1a6788e373c8eaff39684525"/>
+    <mod modName="FS25_groundwaterPump" title="Grundwasserpumpe" version="1.1.0.0" required="false" fileHash="6a86986e0df0e19f6ea45b2cce76d9fc"/>
+    <mod modName="FS25_Fuel_Barrel" title="Barrel Kraftstoff" version="1.0.0.0" required="false" fileHash="d19a02b2968e5a388c49c6b1473de336"/>
+    <mod modName="FS25_ExtendedGameInfoDisplay" title="Erweiterte Spiel-Infodarstellung" version="1.1.0.0" required="false" fileHash="c9bdefc57caf873b39acc17091d81057"/>
+    <mod modName="FS25_BuyableManureAndOther" title="Kauf Von Gülle Mist Und Kalk" version="1.0.0.0" required="false" fileHash="c739fa9b30256a92faa1f654496412c3"/>
+    <mod modName="FS25_DecoPackage" title="Großes Dekopaket" version="1.1.0.0" required="false" fileHash="c0de16bf1c379dfad8b702080a29b46d"/>
+    <mod modName="FS25_Construction_Signs" title="Platzierbare Bauschilder" version="1.0.0.0" required="false" fileHash="6d17e12f55bf86700a1354485126d6b1"/>
+    <mod modName="FS25_meyerLohneRekordiaVWPack" title="Meyer Lohne Rekordia VW Pack" version="1.0.0.0" required="false" fileHash="fa13ee181cc147eda7f3d726efd560a6"/>
+    <mod modName="FS25_GarageMenu" title="Garage Menu" version="1.0.0.0" required="false" fileHash="bc0781749fb2a4886f1b0be5e2aecdab"/>
+    <mod modName="FS25_ModernGarage" title="Moderne Scheune Mit Werkstatt" version="1.0.0.0" required="false" fileHash="dbc419c6edd956f3b6d884c3cfae1f8f"/>
+    <mod modName="FS25_parkVehicle" title="Parkfunktion Für Fahrzeuge" version="1.0.1.0" required="false" fileHash="85a1ad3d0e7df369e3031103f9a57567"/>
+    <mod modName="FS25_baleAutoloadPack" title="Ballen Autoload Pack" version="1.0.0.0" required="false" fileHash="3c4e5d1a22451f2a629f896ca8d0d247"/>
+    <mod modName="FS25_VogelNoot_FarmerM850_pack" title="Vogel&amp;Noot Farmer M850 Pack" version="1.0.0.0" required="false" fileHash="0a6edcbb00800aefeb73b6da65e4cae1"/>
+    <mod modName="FS25_Cargocart" title="Warenwagen" version="1.0.0.0" required="false" fileHash="50764e1484f0ab52ea2b9888c2995b8c"/>
+    <mod modName="FS25_MeprozetPN50" title="Meprozet PN-50" version="1.0.0.0" required="false" fileHash="d4188561fc44609f1ab7d088beffc67e"/>
+    <mod modName="FS25_WorkShop_With_Garage" title="Eine Kleine Garage Mit Werkstatt" version="1.0.0.0" required="false" fileHash="88529f25cda3675d447706e2b25c5df5"/>
+    <mod modName="FS25_SmallWoodenShelter" title="Kleiner Holzunterstand" version="1.0.0.0" required="false" fileHash="0bbc58d68cf5577b2d67194d03e86e5c"/>
+    <mod modName="FS25_BeeHiveHut" title="Bienenhaus" version="1.1.0.0" required="false" fileHash="26013a9793846d4d44fa8000ddb524b6"/>
+    <mod modName="FS25_RK_185" title="WM-185 Mower" version="1.0.0.0" required="false" fileHash="a32ac6023fc2c919a2832dc5ecec14cd"/>
+    <mod modName="FS25_EnhancedVehicle" title="EnhancedVehicle" version="1.1.3.1" required="false" fileHash="6590e8b512d76a00ca7acd07a3c89723"/>
+    <mod modName="FS25_harrows_pack" title="Eggen" version="1.0.0.0" required="false" fileHash="e91cbead6cffaa2154e32e4a79edbc72"/>
+    <mod modName="FS25_HalfModernHouse" title="Ein Elegantes Haus" version="1.1.0.0" required="false" fileHash="eda7efb9c895bc71683c5d0d415a35b5"/>
+    <mod modName="FS25_scooter" title="Roller" version="1.0.0.0" required="false" fileHash="284b11091fc28b0516fbc4acaf7cb36d"/>
+    <mod modName="FS25_MeprozetPN3_18" title="Meprozet PN-180 2W Plus" version="1.0.0.1" required="false" fileHash="068ce2d63c7f8ce3649367b7230791b9"/>
+    <mod modName="FS25_PneumaticConveyorForGrain" title="Pneumatischer Getreideförderer-Silos" version="1.0.0.0" required="false" fileHash="200f6f785189f84467f39cff05d80644"/>
+    <mod modName="FS25_Sweeping_Brush" title="Besen" version="1.0.0.0" required="false" fileHash="da31369f2ec5e26e90239ca417b1974a"/>
+    <mod modName="FS25_Siloplate" title="Silo Platte" version="1.0.0.0" required="false" fileHash="f27f1f048c69b628d29750320c7c0772"/>
+    <mod modName="FS25_RauTrailedTank" title="Rau 2700l Geschleppter Tank" version="1.0.0.0" required="false" fileHash="79ee2d7754d6adfb8e2ec3e5e4d3688a"/>
+    <mod modName="FS25_Mazury" title="Mazury" version="1.0.0.0" required="true" fileHash="9f750f59eba18d20598fdc29f658c2d5"/>
+    <mod modName="FS25_baleNet_addon_crossplay" title="Netzfolien Addon" version="1.0.0.2" required="false" fileHash="a2eaf5b3ff0503ae773b4d240c366a68"/>
+    <mod modName="FS25_multiPurposeTrailer" title="Mehrzweckanhänger" version="1.0.0.0" required="false" fileHash="cb7171a4ba313412ec9062ae925625be"/>
+    <mod modName="FS25_autoTurnOffTurnLights" title="Blinker Automatisch Abschalten" version="1.0.0.0" required="false" fileHash="e56132b0ed69ef63b88680de27db89cd"/>
+    <mod modName="FS25_RCM_PK1" title="RCM PK1" version="1.0.0.0" required="false" fileHash="4bb2d47ffc45f925784aebc4f0e83e2e"/>
+    <mod modName="FS25_paintAndTerraformAnywhere" title="Überall Malen Und Gelände Verändern" version="1.0.0.2" required="false" fileHash="989de5d7a626f7ec61cd8167705787a5"/>
+    <mod modName="FS25_AdditiveTank" title="Silagezusatztank" version="1.0.0.0" required="false" fileHash="7bf23baccdd4359795800c253b41e231"/>
+    <mod modName="FS25_IHC_1046" title="IHC 1046" version="1.0.0.0" required="false" fileHash="c7fb9bec0726cd3a5bd5735c61af5f77"/>
+    <mod modName="FS25_Church_Schondorf" title="Kirche Schondorf" version="1.0.0.0" required="false" fileHash="07c07ee9ff74248b83d924c2ee0acedc"/>
+    <mod modName="FS25_CabView" title="Realistische Kabinenansicht" version="1.0.0.0" required="false" fileHash="0a9a3ac6d5a30b9a1712b7e722b4fde4"/>
+    <mod modName="FS25_BrickBarn" title="Scheune" version="1.0.0.1" required="false" fileHash="ad30239a3cdd41e2f1511278a6725727"/>
+    <mod modName="FS25_SmallShelter" title="Paket Mit Kleinen Unterständen" version="1.1.0.0" required="false" fileHash="b3f3e7c1a9a8c3a43e838a79b6db0dcd"/>
+    <mod modName="FS25_Garage18x7" title="Maschinenhalle 18x7" version="1.0.0.0" required="false" fileHash="8bb6e37572a83b7718f1943abbbce9ed"/>
+    <mod modName="FS25_kirovets" title="Kirovets K-700A" version="1.0.0.0" required="false" fileHash="8f8907fed74655ddb6127b7d7fde04f0"/>
+    <mod modName="FS25_Handcart" title="Handwagen" version="1.0.0.0" required="false" fileHash="74751d9c6d0209df06b9b226ac13249c"/>
+    <mod modName="FS25_fendtF255GTPack" title="Fendt F255GT Pack" version="1.0.0.3" required="false" fileHash="0b0dca17fd76e6606be82f58a73849c7"/>
+    <mod modName="FS25_uniaRoller2_5" title="Unia Walze 2.5" version="1.0.0.0" required="false" fileHash="80da0f4f05cb4c19b0e3360dba8756ef"/>
+    <mod modName="pdlc_macDonPack" title="MacDon Pack" version="1.1.0.0" required="false" fileHash="a910fbe59bd919187cacbfc7b63ec5a6"/>
+    <mod modName="FS25_LizardBaleFork" title="Lizard Ballengabel" version="1.0.0.0" required="false" fileHash="44566a5c0c2abb208b206166df4345f9"/>
+    <mod modName="FS25_additionalGameSettings" title="Zusätzliche Spieleinstellungen" version="1.0.0.4" required="false" fileHash="9019ad168c4b25dc89d183b1e425d951"/>
+    <mod modName="FS25_IHC_644" title="IHC 644" version="1.0.0.0" required="false" fileHash="3158ad904ec3bce2a36c5122501696f8"/>
+    <mod modName="FS25_lsfmBigBagPack" title="LSFM BigBag Pack" version="1.0.0.3" required="false" fileHash="a577fb1969e171e274716c3897e63055"/>
+    <mod modName="FS25_SmallBiogas" title="Kleine Biogasanlagen" version="1.0.0.0" required="false" fileHash="0540d4ff4e603e04f39e4029bf74de00"/>
+    <mod modName="FS25_U240" title="Agromet Famarol Slupsk U240" version="1.0.0.0" required="false" fileHash="146bbac69359c89a8330aeab5ebe73c9"/>
+    <mod modName="FS25_UnloadBalesEarly" title="Ballen Frühzeitig Abladen" version="1.1.2.0" required="false" fileHash="da8c3cc7fd1ba3587519b3c20c1ec3b3"/>
+    <mod modName="FS25_Lizard4Ttt" title="Lizard 4TT" version="1.0.0.0" required="false" fileHash="2c3ed4af699a516887f4e8f26fc6af7e"/>
+    <mod modName="FS25_Talex_Spyder360" title="Talex Spyder 360" version="1.0.0.0" required="false" fileHash="4959eb8b7d3d5b528f7efda292caf34e"/>
+    <mod modName="FS25_Favorit254" title="Sip Favorit 254" version="1.0.0.0" required="false" fileHash="8647247db3fedf33dcaedcc293da67cc"/>
+    <mod modName="FS25_stallingShedPack" title="Hallen-Pack" version="1.0.0.0" required="false" fileHash="ab475148d37648ea0a0b9110b07c5671"/>
+    <mod modName="PSTB" title="PSTB PACK" version="1.0.2" required="false" fileHash="beb2e55516998b54543afb34dcc8847b"/>
+    <mod modName="FS25_realClock" title="Echte Uhrzeit Mod" version="1.0.0.0" required="false" fileHash="4266fc66736e21fcfda4497c2f7151ef"/>
+    <mod modName="FS25_garaz" title="Kleine Garage" version="1.0.0.1" required="false" fileHash="57e84845ac84ad89c3daf1b88f3627a8"/>
+    <mod modName="FS25_CowBarnBig_LIZARD_Feeder" title="Großer Kuhstall Mit LIZARD Futterautomat" version="1.0.0.2" required="false" fileHash="6b83e9f1e6ba523e9c99f923ff2678e5"/>
+    <mod modName="FS25_LizardPS" title="Lizard PS15" version="1.0.0.0" required="false" fileHash="0e4020a1d442a8d3044970ea0b510023"/>
+    <mod modName="FS25_RounderWrappedRoundbales" title="Rundere Gewickelte Rundballen" version="1.0.0.0" required="false" fileHash="d79b50699807d6cfe20a975f4df24035"/>
+    <mod modName="FS25_WeightPack" title="Gewichte Pack" version="1.0.0.0" required="false" fileHash="95dbe9f3e72238765d11f589ee90c8df"/>
+    <mod modName="FS25_beeHivePack" title="Bienenstöcke" version="1.1.0.0" required="false" fileHash="83f7c7f1688cb03188bf81d97c3c614f"/>
+    <mod modName="FS25_ForestryHelper" title="Forstwirtschaftshelfer" version="1.0.0.1" required="false" fileHash="68d5f9a649e080b889e1f9449797172b"/>
+    <mod modName="FS25_ScrewConveyor" title="Schneckenförderer" version="1.0.0.1" required="false" fileHash="51a88e00244d35f5fa1a226145fa32d8"/>
+    <mod modName="FS25_rememberPositions" title="Speichere Spieler Positionen" version="1.0.0.0" required="false" fileHash="9ed9184c8a2bfb238a7ccf1565d87829"/>
+    <mod modName="FS25_BigCowBarn" title="Großer Kuhstall" version="1.0.0.0" required="false" fileHash="f9582e1d398d4507ab0e6d0827ba0037"/>
+    <mod modName="FS25_strautmannTrailers" title="Strautmann Kipper" version="1.0.0.0" required="false" fileHash="5c0036c8213d1916a15e8b2a66e6ff77"/>
+    <mod modName="FS25_PowerTools" title="PowerTools" version="1.1.0.0" required="false" fileHash="cf0ce7ddaa380ff5a725801ba9657f0e"/>
+    <mod modName="FS25_Lizard_RB12T" title="Eidechse RB12T" version="1.0.0.0" required="false" fileHash="239104839c9dd07cb59f10bb77f8d754"/>
+    <mod modName="FS25_lizardCattleTrailer" title="Cattle Trailer" version="1.0.0.0" required="false" fileHash="94bc89e4294c2d069aca09a18b0b6c05"/>
+    <mod modName="FS25_baleTwine_addon_crossplay" title="Garn Addon" version="1.0.0.2" required="false" fileHash="ed6314c165787671a83c00b1595de408"/>
+    <mod modName="FS25_RudolphWelgerDK280RP" title="Rudolph/Welger DK 280 RP" version="1.1.0.0" required="false" fileHash="177285d36ea00021ef5f507c09680afe"/>
+    <mod modName="FS25_smallTractorsWinterPack" title="Kleintraktoren Winter Pack" version="1.0.0.0" required="false" fileHash="df25eb96582f09edccd00c764e135e00"/>
+    <mod modName="FS25_ArpalAM200TRK" title="Arpal AM-200 TR-K" version="1.0.0.0" required="false" fileHash="c613f3ea5f49eade88eebd25714418d5"/>
+    <mod modName="FS25_timberframedBarn04" title="Sehr Alte Fachwerkscheune" version="1.0.0.0" required="false" fileHash="c739ed4fa4a5d77951c2e0b8b04b4496"/>
+    <mod modName="FS25_KuhnProfilePack" title="Kuhn Profile Pack" version="1.0.0.0" required="false" fileHash="11e41dfe2f771880f517c4c6985e72ed"/>
+    <mod modName="FS25_cowShedsPack2" title="Kuhstall Pack" version="1.0.0.0" required="false" fileHash="187af7ab52d56f26c39c2e1410adabba"/>
+    <mod modName="FS25_Cargo_J50" title="Cargo J50" version="1.0.0.0" required="false" fileHash="c6dd9310090d052be8c49f99f00022a3"/>
+    <mod modName="FS25_RauUnisemMS_pack" title="Rau Unisem MS4 / MS6" version="1.0.0.0" required="false" fileHash="8a36e05e0ee995c046d4705b96f3d46d"/>
+    <mod modName="FS25_lsfmBaleStorage" title="LSFM Ballenlager" version="1.0.0.0" required="false" fileHash="4e63df2fb317c9c7d898f50712cb0efe"/>
+    <mod modName="FS25_LizardLawnMower" title="Handrasenmäher" version="1.0.0.0" required="false" fileHash="f13577eafa10c278f3c08ed84dec4923"/>
+    <mod modName="FS25_InoElite270" title="Ino Elite 270" version="1.0.0.0" required="false" fileHash="e92251131fb63a5b969d52c72e5e7b3f"/>
+    <mod modName="FS25_BigFarmHousePack" title="Ein Großes Häuserpaket" version="1.0.0.0" required="false" fileHash="fb4864285f0f27d2039a0f45acf5b3b4"/>
+    <mod modName="FS25_SilageDrum" title="Silage Additiv Kanister" version="1.0.0.0" required="false" fileHash="aef677170f35d027410c49242e586c92"/>
+    <mod modName="FS25_johnDeereSeries710_Df" title="Scheunenfund JD710" version="1.0.1.0" required="false" fileHash="cc3ce05a632edd4a24b457e717c53fde"/>
+    <mod modName="FS25_bucket" title="Eimer" version="1.0.0.0" required="false" fileHash="23e61a1310b3c05abd5fe3c4dfa71f0f"/>
+    <mod modName="FS25_Sales_Plus" title="Angebote Plus" version="1.0.0.0" required="false" fileHash="53aaa44824f2c6c37779e730053cedf2"/>
+    <mod modName="FS25_Bio3g" title="BIO3G Pack" version="1.0.0.1" required="false" fileHash="29a8e44ebe68047b6b527487e7aadf24"/>
+    <mod modName="FS25_ObjectBaleStorage" title="Ballen Lager" version="1.0.0.0" required="false" fileHash="7080cca7446bd300367d258c96262e38"/>
+    <mod modName="FS25_MoneyCommandMod" title="Admin Money Mod" version="1.0.0.1" required="false" fileHash="f2130ccb5b1731eef895a1b8f0809540"/>
+    <mod modName="FS25_RealisticWeather" title="Realistisches Wetter" version="1.1.0.2" required="false" fileHash="22251c8f57686f85f33b7dc469c07bf2"/>
+    <mod modName="FS25_seeds_addon_crossplay" title="Saatgut-Addon" version="1.0.0.2" required="false" fileHash="4fe25678c7f4a99590b2d785234b4a7c"/>
+    <mod modName="FS25_hado99" title="Lizard Hado 99" version="1.0.0.0" required="false" fileHash="c32384e721bbf1bcf054444801de4ee2"/>
+    <mod modName="FS25_PCH_2_5_crossplay" title="PCH-2,5" version="1.0.0.0" required="false" fileHash="a6579d2761c8b62677fb3ab15c8099b3"/>
+    <mod modName="FS25_placeableWallLights" title="Platzierbare Wandleuchten" version="1.0.1.1" required="false" fileHash="02c5b48eaf1b4a587c60a242c0adfa74"/>
+    <mod modName="FS25_Lizard_T1800" title="Lizard T-1800" version="1.0.0.0" required="false" fileHash="e9100cf125404d966b288f86c2a5e0b5"/>
+    <mod modName="FS25_exhaustExtension" title="Abgas Erweiterung" version="1.0.0.3" required="false" fileHash="7f716ec7f8bcb694511377055a133941"/>
+    <mod modName="FS25_RDM_RealisticMilkingTime" title="Realistische Melkzeiten" version="1.0.0.0" required="false" fileHash="ad17fcf27f40fa215d5d41b49514d175"/>
+    <mod modName="FS25_smallStonecrusher" title="Steinbrecher Kalkproduktion" version="1.0.0.0" required="false" fileHash="0f289c4ffcbfe8099cec068bdc074db2"/>
+    <mod modName="FS25_GuaranteedPlaceableRefund" title="Garantierte Platzierbare Rückerstattung" version="1.0.0.0" required="false" fileHash="195f899bae65ed8b5fba6395cd301ba7"/>
+    <mod modName="FS25_polishWheelbarrow" title="Polnische Geschweißte Schubkarre" version="1.0.0.0" required="false" fileHash="e2c49171fa3eb2cb484f66538529b633"/>
+    <mod modName="FS25_FendtFavorit800_900Series" title="Fendt Favorit Series" version="1.0.0.0" required="false" fileHash="08ecd06acb9b6aa4945b13b1b1814d3e"/>
+    <mod modName="FS25_WindTurbinePackage" title="Windkraftanlagen-Paket" version="1.1.0.0" required="false" fileHash="4512d66783c740fe4d29172bbab86f23"/>
+    <mod modName="FS25_johnDeereSeries710" title="John Deere 710" version="1.0.0.0" required="false" fileHash="9a37f0f22752e2a5fd3745fe959262eb"/>
+    <mod modName="FS25_ZYX_SeasonalPrices_crossplay" title="Saisonale Preise" version="1.0.0.0" required="false" fileHash="696f2a6351e4e5ca4a60eb625f82772f"/>
+    <mod modName="FS25_ZYX_SeasonalPrices" title="Erhöhte Saisonale Preise" version="1.0.0.0" required="false" fileHash="38fbe4e32c6e78d258d51b9c2af2ffdf"/>
+    <mod modName="FS25_zetor6" title="Zetor UR2 Pack" version="1.0.0.0" required="false" fileHash="4fed6689566a51b6dedcfbe79ef7f230"/>
+    <mod modName="FS25_BigWhiteCowBarn" title="Großer Weißer Kuhstall" version="1.0.0.0" required="false" fileHash="07e3aaf7d6587d714e16033dc06f184f"/>
+    <mod modName="FS25_twoRowPlanter" title="Klassische 2-Reihige Pflanzmaschine" version="1.0.0.0" required="false" fileHash="07ad08a98a6116ef341fd77de8c13ada"/>
+    <mod modName="FS25_kroneEmslandTrailer" title="Krone Emsland" version="1.0.0.0" required="false" fileHash="c93fffc1e838902b58a5072344a5a080"/>
+    <mod modName="FS25_Z261" title="Sipma Z-261" version="1.0.0.0" required="false" fileHash="c0e32e6eac409d49f09d4fae88ecdeaa"/>
+    <mod modName="FS25_WyszkowianCowbarn" title="Wyszkowische Kuhstall" version="1.0.0.0" required="false" fileHash="4f57c85a5cf49c8aa60891fdd347b036"/>
+    <mod modName="FS25_MovePlaceables" title="Platzierbare Objekte Verschieben" version="1.0.0.1" required="false" fileHash="a1fdc333327853e7c8c0676437a755eb"/>
+    <mod modName="FS25_grainmillEU" title="Getreidemühle" version="1.0.0.0" required="false" fileHash="9182c5b9d9d6e89d917948a872dfac85"/>
+    <mod modName="FS25_OrkanZ320" title="Orkan Z305/Z310/Z320" version="1.0.0.0" required="false" fileHash="5251b4fec960345f7a896afc3d2fd0b1"/>
+    <mod modName="FS25_Joskin_TR270C3" title="Joskin TR270C3" version="1.0.0.0" required="false" fileHash="9e64fcb854463785efe6bd0e5cd02aca"/>
+    <mod modName="FS25_MA_shedStoragePack" title="Unterstände und Lager" version="1.0.0.0" required="false" fileHash="7900c944018d630dfad6660cf3a32dd7"/>
+    <mod modName="FS25_ms261" title="STIHL MS 261 C-M Light 04/ Timber Sports" version="1.0.0.0" required="false" fileHash="c61ab1e62a96b3528ba458e2be24bf63"/>
+    <mod modName="FS25_PolankiFarmBuildings" title="Gebäudepaket" version="1.0.0.1" required="false" fileHash="7e5cae559e00b6625ebdc88de238b88e"/>
+    <mod modName="FS25_wikotecBaleSpike" title="Wiko-Tec Ballenspiess" version="1.0.0.0" required="false" fileHash="ea9e95c331e0a9cab90393fc5a43f439"/>
+    <mod modName="FS25_Handspreader" title="Handstreuer" version="1.0.0.0" required="false" fileHash="1d93061a66090d95f63b0580044192f3"/>
+    <mod modName="FS25_flieglRearDeck" title="Fliegl Heckplattform" version="1.0.0.0" required="false" fileHash="a09d448e7a8b648510988bf0adeffbdc"/>
+    <mod modName="FS25_houseOldPackage" title="Altes Hof Pack" version="1.0.0.0" required="false" fileHash="b23373ac4a28a2c390c66bd032bb9a6d"/>
+    <mod modName="FS25_Z263" title="Sipma Z-263" version="1.1.0.0" required="false" fileHash="21b7673ed6c5d1962ca3523c57a4197e"/>
+    <mod modName="FS25_DynamicLowering" title="Dynamisches Absenken" version="1.0.1.0" required="false" fileHash="14f7d7bd35582041eade2434ac384d9c"/>
+    <mod modName="FS25_SulkyX50econov" title="Sulky X50 Econov" version="1.0.0.0" required="false" fileHash="c7eee67f9c9cb94cd7c299b98f435b34"/>
+    <mod modName="FS25_farmPackVol3" title="Bauernhof Pack Volume 3" version="1.1.0.0" required="false" fileHash="1ce4398296589f63c2fa4694461aa8fb"/>
+    <mod modName="FS25_ArmerSalmonBeaver" title="Armer Salmon Beaver" version="1.0.0.0" required="false" fileHash="1fc9999ce1f1a4b11e8b9758b871113f"/>
+    <mod modName="FS25_VillageShop" title="Dorfladen" version="1.0.0.0" required="false" fileHash="96b2c7626cd70f37670d281c0c7936d4"/>
+    <mod modName="FS25_viconPS" title="Vicon PS 1004/1654" version="1.0.0.0" required="false" fileHash="f2e97c074b170aabaf1e2308ea3bc157"/>
+    <mod modName="FS25_grimmeFt300_rootster604" title="Grimme FT300 Und Rootster604" version="1.0.0.0" required="false" fileHash="304c420fcde0f6b1f3b3e33a1dce2b96"/>
+    <mod modName="FS25_vakutecVA8600" title="Vakutec VA 8600" version="1.0.0.0" required="false" fileHash="2443dc641b2d3c88f45fbcc209309a03"/>
+    <mod modName="FS25_Hydraulic_harrow_MF32_Disks" title="Hydraulische Scheibenegge MF 32" version="1.0.0.0" required="false" fileHash="63e1778aa854aa9951a3bbdac2ea9700"/>
+    <mod modName="FS25_GermanRoadSignPack" title="Deutsches Verkehrssicherungspaket" version="1.0.0.0" required="false" fileHash="345e8ff12fa664dc415bd089cada768f"/>
+    <mod modName="FS25_Farmtech_EDK650" title="Farmtech EDK 650" version="1.0.0.0" required="false" fileHash="1a2500a3790652755cade949f93ac493"/>
+    <mod modName="FS25_Lizard4T" title="Lizard 4T" version="1.0.0.0" required="false" fileHash="d90901357642c874775b473171ed1e94"/>
+    <mod modName="FS25_FancyDoghouse" title="Schicke Hundehütte" version="1.0.0.0" required="false" fileHash="deeb9b4905848ffdc121603bbee31895"/>
+    <mod modName="FS25_THK5" title="Fortschritt THK5" version="1.0.0.0" required="false" fileHash="af8b9f9b7c20d05457f17b5d083a2169"/>
+    <mod modName="FS25_pln_plows_pack" title="PLN Pflugpack" version="1.0.0.1" required="false" fileHash="04743917e10812811eff717349bb52d6"/>
+    <mod modName="FS25_TalexLeopardDuo280" title="Talex Leopard Duo 280" version="1.0.0.0" required="false" fileHash="3c5c7f11a71e6786ae4b4f4e7bc1016a"/>
+    <mod modName="FS25_fendtFarmConPack" title="FarmCon24 - Fendt Pack" version="1.0.0.1" required="false" fileHash="253055d74e7d1084159875b6e1b88200"/>
+    <mod modName="FS25_Talex_Tornado550" title="Talex Tornado 550" version="1.0.0.0" required="false" fileHash="bb5f090ab50a0c53afc55d5ec0fa66ec"/>
+    <mod modName="FS25_E512" title="Fortschritt E-512/E-514" version="1.0.0.0" required="false" fileHash="f49c487fb0b44fb31f3ea475d4d4888e"/>
+    <mod modName="FS25_FordSeries10" title="Ford Series 10 Force II" version="1.1.0.0" required="false" fileHash="503a1eb62e274cf98f38df69f739ae95"/>
+    <mod modName="FS25_additionalFieldInfo" title="Zusätzliche Feldinfo" version="1.0.0.1" required="false" fileHash="ee311349d2032356b818e7a82acd8822"/>
+    <mod modName="FS25_lsfmLivestockTrailerLST85" title="LSFM Tiertransporter" version="1.0.0.1" required="false" fileHash="b92648a13a0e76324f8c18084cf69b7f"/>
+    <mod modName="FS25_mcCormickW4" title="McCormick Deering W4" version="1.0.0.0" required="false" fileHash="1a4047b835092e72e709f36f0f09777e"/>
+    <mod modName="FS25_PackLargeCowsheds" title="Packung Großer Kuhställe" version="1.0.0.0" required="false" fileHash="ca9ddb3e109ea69b6921487c550331c1"/>
+    <mod modName="FS25_UniaPz" title="Unia Grudziadz PZ-1/A, PZ-5" version="1.0.0.0" required="false" fileHash="17c2c0c28f41b4d6ce685e968daf30a0"/>
+    <mod modName="FS25_storageBuildings" title="Lagerhallen Paket" version="1.0.0.0" required="false" fileHash="d697500a12b26307cd37498576ad4a86"/>
+    <mod modName="FS25_SmallWorkshop" title="Einfache Palettenwerkstatt" version="1.0.0.0" required="false" fileHash="76cc36107489c466ab41971c0fa3300b"/>
+    <mod modName="FS25_ModernMediumPigsty" title="Modern Schweinestall" version="1.0.0.0" required="false" fileHash="175780883756fcd8afb2abc3541010ec"/>
+    <mod modName="FS25_bockmannTLALPack" title="Boeckmann TL-AL Pack" version="1.0.0.0" required="false" fileHash="6d63432125bf28202fe0f31fd1bf0f97"/>
+    <mod modName="FS25_Lizard_ART_2000_And_Big_Bags" title="Lizard ART 2000 Und Big Bags" version="1.0.0.0" required="false" fileHash="f797a9f91412d28cfde8bc2a526227ad"/>
+    <mod modName="FS25_FreeTerraformingAndPainting" title="Kostenloses Terraforming Und Malen" version="1.0.2.0" required="false" fileHash="61241f834658cb0fe7a79bd7e1347e5e"/>
+    <mod modName="FS25_OldMills" title="Alte Getreidemühlen" version="1.0.0.0" required="false" fileHash="5c524c8846be324e07eca924cf8a76e9"/>
+    <mod modName="FS25_meridianTL1239AL" title="Meridian TL12-39 AL" version="1.0.0.0" required="false" fileHash="10a67406a9db7134b5a4276597d9e143"/>
+    <mod modName="FS25_MA_largeStorageHalls" title="Große Lagerhallen" version="1.0.0.0" required="false" fileHash="7a4815ed8c59768a4700129bb474238e"/>
+    <mod modName="FS25_bunkerSiloPack" title="Silage Silo Pack" version="1.0.0.0" required="false" fileHash="35b17cb4ef38b28c8473d85e00f194b1"/>
+    <mod modName="FS25_SmallToolsPackDF" title="Paket Mit Kleinen Werkzeugen" version="1.0.0.0" required="false" fileHash="d62b95a9ab96765a4f67e26a24ccc7e7"/>
+    <mod modName="FS25_Small_Chicken_Coop" title="Kleiner Hühnerstall" version="1.0.0.0" required="false" fileHash="1060cdecb1a6354b0eb5fb84278cf798"/>
+    <mod modName="FS25_SIMDashboard_Interface" title="SIM Dashboard Schnittstelle" version="1.0.0.0" required="false" fileHash="7d5bcabc2aaae5edc8bf44e295553764"/>
+    <mod modName="FS25_Lizard_LowBed_Trailer" title="Lizard Low-Bed Trailer" version="1.0.0.0" required="false" fileHash="dd27ed349c148f222bc0784497c7247f"/>
+    <mod modName="FS25_farmall1066" title="Case Farmall 1066" version="1.0.0.0" required="false" fileHash="ff918b5fb095e7eae64a5925cb47bcda"/>
+    <mod modName="FS25_lemkenSmaragd9_400" title="Lemken Smaragd 9/400" version="1.0.0.0" required="false" fileHash="2a91bd6f3173a49801d2c6389a7bec6d"/>
+    <mod modName="FS25_MeadowFence_placeables" title="Weidezaun Paket" version="1.0.0.0" required="false" fileHash="d08f7f35f043a3ea5517af51cfa52933"/>
+    <mod modName="FS25_lsfmFarmEquipmentPack" title="LSFM Farm Ausrüstung Pack" version="1.0.0.3" required="false" fileHash="ae4ebc6193c22c8916a365adfd44b9d0"/>
+    <mod modName="FS25_ShedGarage" title="Schuppen Mit Garage" version="1.0.0.1" required="false" fileHash="25e3fa3b7fb46b58bfdfafe67fb2f262"/>
+    <mod modName="FS25_baleWrap_addon_crossplay" title="Stretchfolie Addon" version="1.0.0.0" required="false" fileHash="f81ee72ace21ae91bb31371c7d12e62f"/>
+    <mod modName="FS25_Pottinger_Twist7001" title="Pottinger Twist 7001" version="1.0.0.0" required="false" fileHash="f8b5dd2f5baac54e29c93b2b158ce97e"/>
+    <mod modName="FS25_Schaeffer23E" title="Schäffer Hoflader 23e + Ladestation" version="1.0.0.0" required="false" fileHash="2c64316e2fd44a6b6bc16965c6b14927"/>
+    <mod modName="FS25_nordstenNS3030" title="Nordsten NS 3003" version="1.0.0.0" required="false" fileHash="e7897eb2e27615d6d3337112527848b7"/>
+    <mod modName="FS25_knocheCrossmax600" title="Knoche CROSSMAX 600" version="1.0.0.0" required="false" fileHash="bd62fd6954c9f362e20c8176b3e8d5cd"/>
+    <mod modName="FS25_rolland_turboclassic" title="Rolland Turboclassic 27-40" version="1.0.0.0" required="false" fileHash="65d79dc77676656c0fc5d184833a004d"/>
+    <mod modName="FS25_MediumBiogasPlantPackage" title="Mittleres Biogasanlagen Pack" version="1.0.0.0" required="false" fileHash="e3acc797cb1926dfe9066a5141452639"/>
+    <mod modName="FS25_CaseIH1455XL2ndGen" title="CaseIH 1455/1255 XL 2.Gen" version="1.0.0.0" required="false" fileHash="221fe40ea45d628ed59a0d009128abfb"/>
+    <mod modName="FS25_MA_GreenShelter" title="Unterstand" version="1.0.0.0" required="false" fileHash="2a3b63b76be1ddec6bf566221c2e4fd2"/>
+    <mod modName="FS25_manualDischarge" title="Manuelle Entladung" version="1.0.0.1" required="false" fileHash="25e383e1637a60ba73017a97b760430c"/>
+    <mod modName="FS25_RM_Subsidy" title="Regierungssubventionierung" version="1.0.0.0" required="false" fileHash="d324c77709ffd0ca671aed7d38221c14"/>
+    <mod modName="FS25_LittleWorkshop" title="Werkstatt" version="1.0.0.0" required="false" fileHash="7672db7e82be578550339d62318f0b1c"/>
+    <mod modName="FS25_rabeMKE" title="Rabe MKE300" version="1.0.0.0" required="false" fileHash="e28a9b30cb023857ab77eae9ad5b9ca2"/>
+    <mod modName="FS25_LemkenAchat" title="Lemken Achat" version="1.0.0.0" required="false" fileHash="9fe4c7e9e0a1320877563d1908410076"/>
+    <mod modName="FS25_QuickeStengrep" title="Quicke Stengrep Pack" version="1.0.0.0" required="false" fileHash="4d6e7d3e73c5aa0e88b3424c9c3df80b"/>
+    <mod modName="FS25_Landini0550Series" title="Landini 0550 Series" version="1.0.0.0" required="false" fileHash="f8396872a05f7c025a228e085476b0f3"/>
+    <mod modName="FS25_ClaasQuadrant1200" title="Claas Quadrant 1200" version="1.0.0.1" required="false" fileHash="18bb2742b280a81de12839b4fa8c7228"/>
+    <mod modName="FS25_FillablePallet" title="Befüllbare Paletten" version="1.0.0.0" required="false" fileHash="0de2fa2e17870ccfad681b08a2ca4f58"/>
+    <mod modName="FS25_DT75" title="DT-75" version="1.0.0.0" required="false" fileHash="182cb5aec6f77186c11a7e59d4b1fae3"/>
+    <mod modName="FS25_amazoneD8_30" title="Amazone D8 30" version="1.0.0.0" required="false" fileHash="35cd3fbebde0ef36fbbc38139b882c5f"/>
+    <mod modName="FS25_ManTgs18Series" title="MAN TGS 18 Series" version="1.0.0.1" required="false" fileHash="c1ca0cb93bbe59d406aeb4209b8523d0"/>
+    <mod modName="FS25_FarmlandOverview" title="Feldübersicht" version="1.0.1.0" required="false" fileHash="b52e7a4df7e8a2c371868cf70d643ac9"/>
+    <mod modName="FS25_faresinPF113" title="Faresin PF1.13" version="1.0.0.0" required="false" fileHash="f7abd2096f9eae70e1897a7ef39c9eac"/>
+    <mod modName="FS25_poettingerNovaDiscPack" title="Pöttinger NOVADISC Pack" version="1.0.0.0" required="false" fileHash="0a32d41de74f924298e6fed57ebd193e"/>
+    <mod modName="FS25_two_wheel_trailer" title="Zweirädriger Anhänger" version="1.0.0.0" required="false" fileHash="c2d673175a9ff87ec9ab704cd783fa35"/>
+    <mod modName="FS25_RealisticRefueling" title="Realistisches Nachtanken" version="1.0.0.0" required="false" fileHash="715418f2a6f84bd9363df2d1d9eb1f97"/>
+    <mod modName="FS25_animalLimitIncreaser64" title="Mehr Tiergehege Möglich (64)" version="1.0.0.0" required="false" fileHash="f9ea6f465013e7f0aeafa385e8e47127"/>
+    <mod modName="FS25_lsfmUniversalTankPack" title="LSFM Universal Tank Pack" version="1.0.0.1" required="false" fileHash="2005d2886962f3ef2e5fdef4836786f0"/>
+    <mod modName="FS25_PlanET_BGA_Modular" title="PlanET Modulare BGA" version="1.0.0.1" required="false" fileHash="44a06de81b5f762928c246dbcbbc9756"/>
+    <mod modName="FS25_PlaceTerraformPaintAnywhere_KingMods" title="Place, Terraform and Paint Anywhere (KingMods)" version="1.0.0.0" required="false" fileHash="609bac723092b75795b8b2fd9d350785"/>
+    <mod modName="FS25_placeableTireTracks" title="Platzierbare Reifenspuren" version="1.0.0.0" required="false" fileHash="e1b5af99738c042e0b4e8e0d111edbd1"/>
+    <mod modName="FS25_grainSampler" title="Automatischer Getreide-Probennehmer" version="1.0.0.0" required="false" fileHash="9f970b7ed05593bbf8b26242517a644a"/>
+    <mod modName="FS25_Pallegney_Buildings_Pack" title="Pallegney Buildings Pack" version="1.0.0.0" required="false" fileHash="554cc2c24891bc5d9d1a0881a254fcb8"/>
+    <mod modName="FS25_HydrantPack" title="Hydrant Pack" version="1.0.0.0" required="false" fileHash="b3916bd1f2061ca979614aaafd354726"/>
+    <mod modName="FS25_OldBrickGarage" title="Alte Backsteingarage" version="1.0.0.0" required="false" fileHash="9166ee2e0a5cdcc730ec09f63501975c"/>
+    <mod modName="FS25_modernHouseSet" title="Modernes Häuser Set" version="1.0.0.0" required="false" fileHash="ab286769ec818947776b23eec1581897"/>
+    <mod modName="FS25_MF600Series" title="Massey-Ferguson 600 Series" version="1.0.0.1" required="false" fileHash="b8ef2b6df5c6eeee334e42d87a0a9307"/>
+    <mod modName="FS25_lizardZ240" title="Lizard Z-240" version="1.0.0.0" required="false" fileHash="2a07324cba02d94b5f5fb6b95773c3d5"/>
+    <mod modName="FS25_lizard_z525" title="Lizard Z525" version="1.0.0.0" required="false" fileHash="68264f2b38b4011bc8a6414d75a812a5"/>
+    <mod modName="FS25_homesteadPigBarn" title="Gehöft Schweinestall" version="1.0.0.0" required="false" fileHash="faf1894268bc984720312d94c849c900"/>
+    <mod modName="FS25_OldWeightStation" title="Alte Kraftstation" version="1.0.0.0" required="false" fileHash="ceccabf5c013e5c2f31fc8f036392e56"/>
+    <mod modName="FS25_FarmBuildingSet" title="Hofgebäude-Baukasten" version="1.0.0.0" required="false" fileHash="5b122bee353dcffc5300a9c42db6fbdc"/>
+    <mod modName="FS25_ManureEvacuator" title="Mistabsauger" version="1.1.0.0" required="false" fileHash="8d34343fd3396b626c6d1330b6bda0a8"/>
+    <mod modName="FS25_LizardCarTowTrailer" title="Lizard Autoanhängetieflader" version="1.0.0.0" required="false" fileHash="6577866a75dbc70550fe067c9de908c0"/>
+    <mod modName="FS25_Lizard_Panonija_525" title="Lizard Panonijas 525" version="1.0.0.0" required="false" fileHash="05ef6b2a319eed1f0870875c13a6105a"/>
+    <mod modName="FS25_HTS_100" title="HTS 100.27" version="1.0.0.0" required="false" fileHash="c8fdaa8a1f5eb46917185e4dc798a17a"/>
+    <mod modName="FS25_kuhnGMD4411" title="Kuhn GMD 4411" version="1.0.0.0" required="false" fileHash="cad2b29c30036a2f367ecadead5db8b1"/>
+</careerSavegame>
